@@ -10,7 +10,7 @@ const products = [
 			`Yousuf Agro Food and Beverage LTD. is a trusted and reliable company, operated by a skilled and dedicated workforce. One of its prominent brands is Mejo.
 For verification or further authentication, please scan the QR code provided.`,
 		category: "Total 7 categories",
-		image: "src/Image/image1.jpg",
+		image: "/Images/image1.jpg",
 		rating: { rate: 3.9, count: 120 },
 	},
 	{
@@ -22,7 +22,7 @@ For verification or further authentication, please scan the QR code provided.`,
 				 Mejo Drinking Water – Pure, safe, and refreshing hydration.`,
 		category: " Beverages",
 		image:
-			"src/Image/image2.jpg",
+			"/Images/image2.jpg",
 		rating: { rate: 4.1, count: 259 },
 	},
 	{
@@ -32,7 +32,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Mejo Cola – Bold taste, fizzy thrill, pure satisfaction.",
 		category: " Beverages",
-		image: "src/Image/image3.jpg",
+		image: "/Images/image3.jpg",
 		rating: { rate: 4.7, count: 500 },
 	},
 	{
@@ -42,7 +42,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Mejo Orange – Bursting with juicy citrus energy  Refreshing. Zesty. Unstoppable. Pure orange joy in every sip.",
 		category: " Beverages",
-		image: "src/Image/image4.jpg",
+		image: "/Images/image4.jpg",
 		rating: { rate: 2.1, count: 430 },
 	},
 	{
@@ -52,7 +52,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Mejo Up – Crisp, cool, and citrusy.Lift your mood, refresh your day. The zesty splash you need.Lemon-lime refreshment, done right.",
 		category: " Beverages",
-		image: "src/Image/image5.jpg",
+		image: "/Images/image5.jpg",
 		rating: { rate: 4.6, count: 400 },
 	},
 	{
@@ -62,7 +62,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Mejo Coils – Super power, ultra boost. Keep bugs away, the Mejo way.",
 		category: "Insect Repellent",
-		image: "src/Image/image6.jpg",
+		image: "/Images/image6.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -72,7 +72,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Mejo Rice & Spices – Aromatic rice. Authentic spices. Made for real flavor.",
 		category: "Food Products",
-		image: "src/Image/image7.jpg",
+		image: "/Images/image7.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -82,7 +82,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			" Mejo Kon Chocolate – Smooth, creamy, simply irresistible.",
 		category: "Chocolates & Confectionery",
-		image: "src/Image/image8.jpg",
+		image: "/Images/image8.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -92,7 +92,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Mejo Cleaners – Tough on dirt, gentle on shine.",
 		category: " Cleaning Products ",
-		image: "src/Image/image9.jpg",
+		image: "/Images/image9.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -102,7 +102,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Mejo Hand Wash Soap – Soft on hands, tough on germs.",
 		category: "Personal Care",
-		image: "src/Image/image10.jpg",
+		image: "/Images/image10.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -112,7 +112,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Cuts grease fast, shines longer. Glow naturally, feel refreshed. Tough on stains, gentle on skin.",
 		category: " Cleaning Products ",
-		image: "src/Image/image11.jpg",
+		image: "/Images/image11.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -122,7 +122,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Chill, taste, and smile – the cool side of Mejo!",
 		category: "Frozen & Dessert Items",
-		image: "src/Image/image12.jpg",
+		image: "/Images/image12.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -132,7 +132,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Bursting with real fruit flavor, made to refresh every moment.",
 		category: "Beverages",
-		image: "src/Image/image13.jpg",
+		image: "/Images/image13.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -142,7 +142,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			" Pure, aromatic, and traditionally powerful perfect for both cooking and care",
 		category: "Food Products",
-		image: "src/Image/image14.jpg",
+		image: "/Images/image14.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -152,7 +152,7 @@ For verification or further authentication, please scan the QR code provided.`,
 		description:
 			"Pure cooking essentials for healthy, flavorful meals.",
 		category: "Food Products",
-		image: "src/Image/image15.jpg",
+		image: "/Images/image15.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 	{
@@ -165,7 +165,7 @@ From refreshing beverages to essential household items and quality food products
 
 "`,
 		category: "Total 7 categories",
-		image: "src/Image/image16.jpg",
+		image: "/Images/image16.jpg",
 		rating: { rate: 5.9, count: 70 },
 	},
 
